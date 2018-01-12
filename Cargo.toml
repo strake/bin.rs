@@ -1,6 +1,6 @@
 [package]
 name = "bin"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["M Farkas-Dyck <strake888@gmail.com>"]
 description = "Bits"
 license = "MIT OR Apache-2.0"
